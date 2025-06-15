@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALUX3S
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: he/him
 
 <!---
